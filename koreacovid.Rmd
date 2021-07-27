@@ -84,3 +84,4 @@ According to fishers test for count data, males are 2.3 time more like to die fr
 
 ## Conclusions
 
+The null hypothesis says that covid death are independent of sex. First we added barcharts to show the number of deaths out of 100 and it showed about 60% of the covid related deaths were males and the other 40% were females.After running numerical results it showed an accurate count of 64 males deaths and 36 female deaths out of the 100 covid related deaths. This showed that males are twice more likely to die from covid than females.The inferential results gave us a p-value of 0.0012, so we are able to reject the null hypothesis because the p-value is too small. 
